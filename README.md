@@ -49,5 +49,3 @@ streamlit run PrintX.py
 ### Contributions 
 We're open to collaboration! Feel free to fork the repo, suggest features, or raise issues.
 
-📧 **Contact**: info@caidstudio.co
-
